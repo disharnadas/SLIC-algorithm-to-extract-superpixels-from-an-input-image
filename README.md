@@ -3,8 +3,8 @@ Youtube Tutorial part1
 
 Steps to install the packages in python:
 
-#Install scikit-image
+#Install scikit-image:
 python -m pip install -U scikit-image
 
-#Install matplotlib
+#Install matplotlib:
 python -m pip install matplotlib
